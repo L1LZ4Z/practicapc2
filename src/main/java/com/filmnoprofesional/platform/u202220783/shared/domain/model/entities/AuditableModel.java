@@ -1,4 +1,4 @@
-package com.filmnoprofesional.platform.u202220783.shared.domain.model;
+package com.filmnoprofesional.platform.u202220783.shared.domain.model.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;

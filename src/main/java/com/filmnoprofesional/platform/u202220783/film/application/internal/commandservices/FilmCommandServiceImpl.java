@@ -10,7 +10,6 @@ import com.filmnoprofesional.platform.u202220783.film.domain.model.valueobjects.
 import com.filmnoprofesional.platform.u202220783.film.domain.services.FilmCommandService;
 import com.filmnoprofesional.platform.u202220783.film.infrastructure.persistence.jpa.repositories.FilmRepository;
 import com.filmnoprofesional.platform.u202220783.film.infrastructure.persistence.jpa.repositories.FilmTypeRepository;
-import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;
